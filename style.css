@@ -49,9 +49,10 @@ button:disabled {
   filter: brightness(30%)
 }
 
-legend {
+a {
   color: yellow;
   font-size: 10px;
+  text-decoration: none;
 }
 
 /* Media Query: Tablet or Smaller Devices */
