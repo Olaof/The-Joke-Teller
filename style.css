@@ -49,6 +49,11 @@ button:disabled {
   filter: brightness(30%)
 }
 
+legend {
+  color: yellow;
+  font-size: 10px;
+}
+
 /* Media Query: Tablet or Smaller Devices */
 @media screen and (max-width: 1000px) {
   .container {
